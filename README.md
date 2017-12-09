@@ -1,7 +1,4 @@
 # banksyste
-Team Members:
-Wentao Song
-Yuzhou He
 The Description:
 The is a bank system for clerks to create account, help customer to save and draw money out, check all information of one account and     delete the aacount.
 The database has three tables, one is for clerks' account and password(you can only use this but cannnot change this by this app), the next is for account(CRUD), the last one is for record.
@@ -13,7 +10,7 @@ This app can Create accounts and Read the information of the account. The inform
 
 
 1. Team Members: Wentao Song, Yuzhou He
-2. Another item
+2. The Description: The is a bank system for clerks to create account, help customer to save and draw money out, check all information of one account and delete the aacount.
 ⋅⋅* Unordered sub-list. 
 1. Actual numbers don't matter, just that it's a number
 ⋅⋅1. Ordered sub-list
