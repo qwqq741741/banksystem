@@ -1,5 +1,4 @@
 # banksyste
-The database has three tables, one is for clerks' account and password(you can only use this but cannnot change this by this app), the next is for account(CRUD), the last one is for record.
 (https://github.com/qwqq741741/banksystem/raw/master/er.png)
 CRUD:
 This app can Create accounts and Read the information of the account. The information of the account will change if you save of draw       money. Finally, you can delete any account you want to. 
@@ -10,8 +9,7 @@ This app can Create accounts and Read the information of the account. The inform
 1. Team Members: Wentao Song, Yuzhou He
 2. The Description: The is a bank system for clerks to create account, help customer to save and draw money out, check all information of one account and delete the aacount.
 3. The database has three tables, one is for clerks' account and password(you can only use this but cannnot change this by this app), the next is for account(CRUD), the last one is for record.
-⋅⋅1. Ordered sub-list
-4. And another item.
+4. ERD:(https://github.com/qwqq741741/banksystem/raw/master/er.png)
 
 ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
