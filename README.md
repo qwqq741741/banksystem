@@ -8,4 +8,4 @@
 4 (https://github.com/qwqq741741/banksystem/raw/master/er.png)
 5 CRUD:
   This app can Create accounts and Read the information of the account. The information of the account will change if you save of draw         money. Finally, you can delete any account you want to. 
-6 (http://www.youtube.com/watchv=zwqbD4Wkwws&feature=youtu.be)
+6 (https://www.youtube.com/watch?v=zwqbD4Wkwws&feature=youtu.be)
